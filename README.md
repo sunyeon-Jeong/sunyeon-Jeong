@@ -7,4 +7,4 @@
   - 📎 https://mallangdev.notion.site/3236d616fae040ccb977c7f35abaec84
   - 📎 https://www.instagram.com/sunyeonjeongg/
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sunyeon-Jeong&theme=dracula&exclude=java,python
+http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunyeon-Jeong&theme=dracula&exclude=java,python

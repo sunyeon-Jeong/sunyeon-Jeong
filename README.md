@@ -1,7 +1,7 @@
 ### 🐱Sunyeon-Jeong, mallang developer🐰
 - **🎀 BackEnd Developer, Project Manager**
-- 🎓 Big-data, Python, Data Structure, My-SQL
-- 🌈 Java, Spring, SpringBoot, Database, AWS, Postman, GitHub, Notion
+- 🎓 Big-data, Machine-Learning, Data-Structure, Database, Computer-Architecture
+- 🌈 Java, Spring, SpringBoot, Python, R, SQL, AWS, Postman, GitHub, Notion
 - 🍋 Link
   - 📎 https://velog.io/@mallang
   - 📎 https://mallangdev.notion.site/3236d616fae040ccb977c7f35abaec84

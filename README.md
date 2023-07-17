@@ -8,5 +8,8 @@
   - 📎 https://www.instagram.com/sunyeonjeongg/
 
 <div align="center">
+
 ![mallang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunyeon-Jeong&show_icons=true&theme=omni)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunyeon-Jeong&layout=compact&theme=omni)
 </div>

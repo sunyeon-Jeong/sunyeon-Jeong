@@ -8,6 +8,5 @@
   - 📎 https://www.instagram.com/sunyeonjeongg/
 
 <div align="center">
-  
-  [![Mallang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunyeon-Jeong&show_icons=true&theme=radical&cont_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![mallang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunyeon-Jeong&show_icons=true&theme=omni)
 </div>

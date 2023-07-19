@@ -2,10 +2,10 @@
 - **🎀 BackEnd Developer, Project Manager**
 - 🎓 Big-data, Machine-Learning, Data-Structure, Database, Computer-Architecture
 - 🌈 Java, Spring, SpringBoot, Python, R, SQL, AWS, Postman, GitHub, Notion
-- 🍋 Link
+- 💌 Contact me
   - 📎 https://velog.io/@mallang
-  - 📎 https://mallangdev.notion.site/3236d616fae040ccb977c7f35abaec84
-  - 📎 https://www.instagram.com/sunyeonjeongg/
+  - 📎 https://github.com/sunyeon-Jeong
+  - 📎 http://sunyeon4012@gmail.com﻿
 
 <div align="center">
 

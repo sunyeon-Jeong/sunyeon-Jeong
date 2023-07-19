@@ -4,6 +4,7 @@
 - 🌈 Java, Spring, SpringBoot, Python, R, SQL, AWS, Postman, GitHub, Notion
 - 💌 Contact me
   - 📎 https://velog.io/@mallang
+  - 📎 https://mallangdev.tistory.com/
   - 📎 https://github.com/sunyeon-Jeong
   - 📎 http://sunyeon4012@gmail.com﻿
 

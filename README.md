@@ -2,6 +2,8 @@
 - **🎀 BackEnd Developer, Project Manager**
 - 🎓 Big-data, Machine-Learning, Data-Structure, Database, Computer-Architecture
 - 🌈 Java, Spring, SpringBoot, Python, R, SQL, AWS, Postman, GitHub, Notion
+<br>
+
 - 💌 Contact me
   - 📎 https://velog.io/@mallang
   - 📎 https://mallangdev.tistory.com/
